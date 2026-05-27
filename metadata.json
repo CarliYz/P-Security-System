@@ -1,0 +1,7 @@
+{
+  "name": "Aegis Command System _ EN",
+  "description": "A high-density, ontology-driven police operational situational awareness and command system inspired by Palantir Gotham/AIP.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
